@@ -1,3 +1,7 @@
+⚠️ **Archived**
+
+This repository is no longer actively maintained. Please contact us if you need commercial support
+
 ![Wunderman Thompson Technology logo](./assets/wtt-logo.png)
 
 [![Build Status](https://travis-ci.org/Cognifide/Slice.svg?branch=master)](https://travis-ci.org/Cognifide/Slice)
